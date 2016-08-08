@@ -2,7 +2,7 @@
 * <h1>JavaEE Online Course</h1>
 * <h2>Collections Framework</h2>
 * <p>
-* This classs represents the usage of Java 
+* These classes represents the usage of Java 
 * Collection Framework as demonstrated on
 * the Online Course conducted by Dimik Computing.
 * Feel free to fork and try it on your own.
